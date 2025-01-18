@@ -1,4 +1,4 @@
-# Azure-web-apps
+# Azure-web-apps Lab 9a
 Create an Azure web app, manage the deployment, and scale the app.
 Task 1: Create and configure an Azure web app
 In this task, you create an Azure web app. Azure App Services is a Platform As a Service (PAAS) solution for web, mobile, and other web-based applications. Azure web apps is part Azure App Services hosting most runtime environments, such as PHP, Java, and .NET. The app service plan that you select determines the web app compute, storage, and features.
